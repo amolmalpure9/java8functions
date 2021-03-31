@@ -50,3 +50,4 @@ public class Java8functions {
 	
 	}
 }
+//sample comment added
