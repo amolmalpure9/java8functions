@@ -50,4 +50,4 @@ public class Java8functions {
 	
 	}
 }
-//sample comment added
+//sample comment added or modified
